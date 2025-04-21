@@ -58,16 +58,21 @@ A powerful data visualization tool that allows users to view and edit data throu
       <em>Main Menu Interface</em>
     </td>
     <td align="center">
-      <img src="screenshots/cpp_bar_chart.png" alt="Bar Chart" width="300"/>
+      <img src="screenshots/cpp_data_remove_data.png" alt="Remove Data" width="300"/>
       <br>
-      <em>ASCII Bar Chart Visualization</em>
+      <em>Remove Data Point</em>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img src="screenshots/cpp_data_management.png" alt="Data Management" width="300"/>
+    <td align="center">
+      <img src="screenshots/cpp_data_add_data.png" alt="Add Data" width="300"/>
       <br>
-      <em>Data Management Interface</em>
+      <em>Add Data Point</em>
+    </td>
+    <td align="center">
+      <img src="screenshots/cpp_data_display_raw.png" alt="Display Raw Data" width="300"/>
+      <br>
+      <em>Display Raw Data</em>
     </td>
   </tr>
 </table>
