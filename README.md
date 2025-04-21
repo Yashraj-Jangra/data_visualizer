@@ -25,24 +25,24 @@ A powerful data visualization tool that allows users to view and edit data throu
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/web_bar_chart.png" alt="Bar Chart" width="300"/>
+      <img src="screenshots/web_bar_chart.jpeg" alt="Bar Chart" width="300"/>
       <br>
       <em>Bar Chart Visualization</em>
     </td>
     <td align="center">
-      <img src="screenshots/web_line_chart.png" alt="Line Chart" width="300"/>
+      <img src="screenshots/web_line_chart.jpeg" alt="Line Chart" width="300"/>
       <br>
       <em>Line Chart Visualization</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/web_pie_chart.png" alt="Pie Chart" width="300"/>
+      <img src="screenshots/web_pie_chart.jpeg" alt="Pie Chart" width="300"/>
       <br>
       <em>Pie Chart Visualization</em>
     </td>
     <td align="center">
-      <img src="screenshots/web_data_editing.png" alt="Data Editing" width="300"/>
+      <img src="screenshots/web_data_editing.jpeg" alt="Data Editing" width="300"/>
       <br>
       <em>Data Editing Interface</em>
     </td>
