@@ -1,0 +1,9 @@
+Apple 10
+Banana 25
+Orange 15
+Mango 30
+Peach 35
+Kiwi 40
+Lemon 5
+testing 44
+bhuvy 99

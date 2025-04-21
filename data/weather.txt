@@ -1,0 +1,15 @@
+New York 28
+Los Angeles 32
+Chicago 25
+Houston 35
+Phoenix 38
+Philadelphia 30
+San Antonio 34
+San Diego 29
+Dallas 33
+San Jose 27
+Austin 36
+Jacksonville 31
+Fort Worth 34
+Columbus 26
+Charlotte 29

@@ -1,0 +1,12 @@
+January 45000
+February 52000
+March 48000
+April 62000
+May 58000
+June 75000
+July 82000
+August 78000
+September 65000
+October 71000
+November 89000
+December 95000 
