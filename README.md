@@ -22,16 +22,16 @@ A powerful data visualization tool that allows users to view and edit data throu
 ## Screenshots
 
 ### Web Interface
-![Web Interface - Bar Chart](screenshots/web_bar_chart.png)
+![Web Interface - Bar Chart](screenshots/web_bar_chart.jpeg)
 *Bar Chart Visualization*
 
-![Web Interface - Line Chart](screenshots/web_line_chart.png)
+![Web Interface - Line Chart](screenshots/web_line_chart.jpeg)
 *Line Chart Visualization*
 
-![Web Interface - Pie Chart](screenshots/web_pie_chart.png)
+![Web Interface - Pie Chart](screenshots/web_pie_chart.jpeg)
 *Pie Chart Visualization*
 
-![Web Interface - Data Editing](screenshots/web_data_editing.png)
+![Web Interface - Data Editing](screenshots/web_data_editing.jpeg)
 *Data Editing Interface*
 
 ### C++ Console Application
@@ -41,7 +41,9 @@ A powerful data visualization tool that allows users to view and edit data throu
 ![C++ Console - Bar Chart](screenshots/cpp_bar_chart.png)
 *ASCII Bar Chart Visualization*
 
-![C++ Console - Data Management](screenshots/cpp_data_management.png)
+![C++ Console - Data Management1](screenshots/cpp_data_management1.png)
+![C++ Console - Data Management2](screenshots/cpp_data_management2.png)
+![C++ Console - Data Management3](screenshots/cpp_data_management3.png)
 *Data Management Interface*
 
 ## Technologies Used
