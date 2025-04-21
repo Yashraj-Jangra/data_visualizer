@@ -22,33 +22,55 @@ A powerful data visualization tool that allows users to view and edit data throu
 ## Screenshots
 
 ### Web Interface
-![Web Interface - Bar Chart](screenshots/web_bar_chart.jpeg)
-*Bar Chart Visualization*
-
-![Web Interface - Line Chart](screenshots/web_line_chart.jpeg)
-*Line Chart Visualization*
-
-![Web Interface - Pie Chart](screenshots/web_pie_chart.jpeg)
-*Pie Chart Visualization*
-
-![Web Interface - Data Editing](screenshots/web_data_editing.jpeg)
-*Data Editing Interface*
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/web_bar_chart.png" alt="Bar Chart" width="300"/>
+      <br>
+      <em>Bar Chart Visualization</em>
+    </td>
+    <td align="center">
+      <img src="screenshots/web_line_chart.png" alt="Line Chart" width="300"/>
+      <br>
+      <em>Line Chart Visualization</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/web_pie_chart.png" alt="Pie Chart" width="300"/>
+      <br>
+      <em>Pie Chart Visualization</em>
+    </td>
+    <td align="center">
+      <img src="screenshots/web_data_editing.png" alt="Data Editing" width="300"/>
+      <br>
+      <em>Data Editing Interface</em>
+    </td>
+  </tr>
+</table>
 
 ### C++ Console Application
-![C++ Console - Main Menu](screenshots/cpp_main_menu.png)
-*Main Menu Interface*
-
-![C++ Console - Bar Chart](screenshots/cpp_bar_chart.png)
-*ASCII Bar Chart Visualization*
-
-
-*c++ Console - Data Management*
-![C++ Console - Remove Data Point](screenshots/cpp_data_remove_data.png)
-*Remove Data Point*
-![C++ Console - Add Data Point](screenshots/cpp_data_add_data.png)
-*Add Data Point*
-![C++ Console - Display Raw Data](screenshots/cpp_data_display_raw.png)
-*Display Raw Data*
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/cpp_main_menu.png" alt="Main Menu" width="300"/>
+      <br>
+      <em>Main Menu Interface</em>
+    </td>
+    <td align="center">
+      <img src="screenshots/cpp_bar_chart.png" alt="Bar Chart" width="300"/>
+      <br>
+      <em>ASCII Bar Chart Visualization</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="screenshots/cpp_data_management.png" alt="Data Management" width="300"/>
+      <br>
+      <em>Data Management Interface</em>
+    </td>
+  </tr>
+</table>
 
 ## Technologies Used
 
@@ -129,7 +151,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-- **Yashraj Jangra** - [GitHub Profile](https://github.com/Yashraj-Jangra)
+<div align="center">
+  <a href="https://github.com/Yashraj-Jangra">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/yashraj-jangra">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+- **Yashraj Jangra** 
+  - GitHub: [@Yashraj-Jangra](https://github.com/Yashraj-Jangra)
+  - LinkedIn: [Yashraj Jangra](https://linkedin.com/in/yashraj-jangra)
 
 ## Acknowledgments
 
