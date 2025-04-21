@@ -41,10 +41,14 @@ A powerful data visualization tool that allows users to view and edit data throu
 ![C++ Console - Bar Chart](screenshots/cpp_bar_chart.png)
 *ASCII Bar Chart Visualization*
 
-![C++ Console - Data Management1](screenshots/cpp_data_management1.png)
-![C++ Console - Data Management2](screenshots/cpp_data_management2.png)
-![C++ Console - Data Management3](screenshots/cpp_data_management3.png)
-*Data Management Interface*
+
+*c++ Console - Data Management*
+![C++ Console - Remove Data Point](screenshots/cpp_data_remove_data.png)
+*Remove Data Point*
+![C++ Console - Add Data Point](screenshots/cpp_data_add_data.png)
+*Add Data Point*
+![C++ Console - Display Raw Data](screenshots/cpp_data_display_raw.png)
+*Display Raw Data*
 
 ## Technologies Used
 
